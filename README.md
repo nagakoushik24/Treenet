@@ -2,7 +2,7 @@
 
 TreeNet is an interactive web application that allows users to **visualize, modify, and explore tree data structures** like **Binary Search Tree**, **AVL Tree**, and **Trie** in real time using Python and Flask. Designed for educational and demonstrative purposes, TreeNet offers dynamic insertion, deletion, rearrangement, and graphical traversal of nodes.
 
-![Tree Visualization](static/tree.png)
+![User Interface](ui.png)
 
 ---
 
